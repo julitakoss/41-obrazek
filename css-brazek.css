@@ -1,0 +1,12 @@
+.parent_square{
+    height: 400px;
+    width: 400px;
+    background-color: darkgreen;
+    background-repeat: no-repeat;
+}
+.square_kid{
+    height: 200px;
+    width: 200px;
+    background-image: url("obrazek_2_2.png");
+    background-repeat: no-repeat;    
+}
